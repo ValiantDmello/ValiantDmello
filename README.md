@@ -4,6 +4,11 @@
 
 Welcome to my GitHub world! I'm on a journey to craft digital experiences and solve real-world problems through code. My projects are not just lines of code; they are stories of innovation and creativity. Currently pursuing a Master's in Applied Computing at the University of Windsor.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valiantdmello&label=Profile%20views&color=0e75b6&style=flat" alt="valiantdmello" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valiantdmello" alt="valiantdmello" /></a> </p>
+
+
 <p align="left">
   <a href="https://www.linkedin.com/in/dmellov">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=00565E"/>
@@ -33,6 +38,12 @@ Welcome to my GitHub world! I'm on a journey to craft digital experiences and so
 ---
 
 ### 📈 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valiantdmello&show_icons=true&locale=en&layout=compact" alt="valiantdmello" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valiantdmello&show_icons=true&locale=en" alt="valiantdmello" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantdmello&" alt="valiantdmello" /></p>
 
 ![Valiant's GitHub stats](https://github-readme-stats.vercel.app/api?username=valiantdmello&show_icons=true&theme=gruvbox)
 
