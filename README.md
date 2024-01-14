@@ -46,7 +46,6 @@ Welcome to my GitHub world! I'm on a journey to craft digital experiences and so
 
 ![Valiant's GitHub stats](https://github-readme-stats.vercel.app/api?username=valiantdmello&show_icons=true&theme=gruvbox)
 
---->
 
 ---
 
@@ -70,7 +69,7 @@ Welcome to my GitHub world! I'm on a journey to craft digital experiences and so
 
   <div style="flex: 1;">
     <a href="https://github.com/ValiantDmello/PD-prediction">
-      <img src="./project-thumbnails/PD" alt="PD Thumbnail" style="width: 500px;">
+      <img src="./project-thumbnails/PD-thumbnail.png" alt="PD Thumbnail" style="width: 500px;">
     </a>
     <p>
       Parkinson's Disease Prediction project employing machine learning on diverse datasets (gait, speech, handwriting), achieving high accuracy with models, and providing a user-friendly Flask app for early        detection.    
@@ -86,9 +85,9 @@ Welcome to my GitHub world! I'm on a journey to craft digital experiences and so
     </p>
   </div>
 
-  <!-- Add more project divs as needed -->
-
 </div>
+
+--->
 
 ---
 
