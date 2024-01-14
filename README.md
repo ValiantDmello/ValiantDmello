@@ -2,7 +2,7 @@
 
 **`Passionate Software Developer | Python | JavaScript | Django | React | Node | AWS | SQL | MongoDB`**
 
-Welcome to my GitHub world! I'm on a journey to craft digital experiences and solve real-world problems through code. My projects are not just lines of code; they are stories of innovation and creativity. Currently pursuing a Master's in Applied Computing at the University of Windsor.
+Welcome to my GitHub world! I'm on a journey to craft digital experiences and solve real-world problems through code. My projects are not just lines of code; they are stories of innovation and creativity.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valiantdmello&label=Profile%20views&color=0e75b6&style=flat" alt="valiantdmello" /> </p>
 
@@ -24,7 +24,6 @@ Welcome to my GitHub world! I'm on a journey to craft digital experiences and so
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/>
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
@@ -36,7 +35,7 @@ Welcome to my GitHub world! I'm on a journey to craft digital experiences and so
 <br />
 
 ---
-
+<!---
 ### 📈 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valiantdmello&show_icons=true&locale=en&layout=compact" alt="valiantdmello" /></p>
@@ -47,13 +46,31 @@ Welcome to my GitHub world! I'm on a journey to craft digital experiences and so
 
 ![Valiant's GitHub stats](https://github-readme-stats.vercel.app/api?username=valiantdmello&show_icons=true&theme=gruvbox)
 
+--->
+
 ---
 
 ### 🎥 Latest Projects
 
-**[Elearning site](https://github.com/your-username/project1)**
-  ![Project 1 Thumbnail](link_to_thumbnail_image)
-  Brief description or key features of the project.
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 1">
+    <a href="https://github.com/your-username/project1">
+      <img src="./project-thumbnails/elearning-thumbnail.png" alt="Project 1 Thumbnail" style="width: 500px;">
+    </a>
+    <p>Brief description or key features of the project.</p>
+  </div>
+
+  <div style="flex: 1">
+    <a href="https://github.com/your-username/project2">
+      <img src="./project-thumbnails/elearning-thumbnail.png" alt="Project 2 Thumbnail" style="width: 500px;">
+    </a>
+    <p>Brief description or key features of the project.</p>
+  </div>
+
+  <!-- Add more project divs as needed -->
+
+</div>
 
 ---
 
