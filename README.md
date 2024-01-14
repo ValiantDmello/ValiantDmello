@@ -54,18 +54,36 @@ Welcome to my GitHub world! I'm on a journey to craft digital experiences and so
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex: 1">
-    <a href="https://github.com/your-username/project1">
-      <img src="./project-thumbnails/elearning-thumbnail.png" alt="Project 1 Thumbnail" style="width: 500px;">
+  <div style="flex: 1;" >
+    <a href="https://github.com/ValiantDmello/elearningsite">
+      <img src="./project-thumbnails/elearning-thumbnail.png" alt="Elearning Thumbnail" style="width: 500px;">
     </a>
-    <p>Brief description or key features of the project.</p>
+    <p>A Django-based Learning Management System (LMS) facilitating online education with features like user registration, course creation, enrollment, premium plans, and an admin panel for effective course management.</p>
   </div>
 
-  <div style="flex: 1">
-    <a href="https://github.com/your-username/project2">
-      <img src="./project-thumbnails/elearning-thumbnail.png" alt="Project 2 Thumbnail" style="width: 500px;">
+  <div style="flex: 1;">
+    <a href="https://github.com/ValiantDmello/Eventech">
+      <img src="./project-thumbnails/eventech-thumbnail.png" alt="Eventech Thumbnail" style="width: 500px;">
     </a>
-    <p>Brief description or key features of the project.</p>
+    <p>Eventech: A comprehensive event management web interface with user-friendly frontend for organizers to manage events and attendees, and an attendee portal for event registration and details viewing.</p>
+  </div>
+
+  <div style="flex: 1;">
+    <a href="https://github.com/ValiantDmello/PD-prediction">
+      <img src="./project-thumbnails/PD" alt="PD Thumbnail" style="width: 500px;">
+    </a>
+    <p>
+      Parkinson's Disease Prediction project employing machine learning on diverse datasets (gait, speech, handwriting), achieving high accuracy with models, and providing a user-friendly Flask app for early        detection.    
+    </p>
+  </div>
+
+  <div style="flex: 1;">
+    <a href="https://github.com/ValiantDmello/Movie-Recommendation-System-PySpark">
+      <img src="./project-thumbnails/movierec-thumbnail.png" alt="movierec Thumbnail" style="width: 500px;">
+    </a>
+    <p>
+      Movie Recommendation System using PySpark, implementing collaborative filtering with the ALS algorithm and content-based filtering using TF-IDF and cosine similarity, based on the Movielens 100k       dataset from Kaggle.    
+    </p>
   </div>
 
   <!-- Add more project divs as needed -->
